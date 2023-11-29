@@ -5,13 +5,17 @@ export default {
     extend: {
       backgroundImage: {
         "pack-train":
-          "url('https://vastphotos.com/files/uploads/photos/10994/peaceful-nature-photo-l.jpg?v=20220712073521')",
+          "url('https://images.unsplash.com/photo-1502500505273-8e5240bbe2ad?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bW91bnRhaW5zJTIwYW5kJTIwY2xvdWRzfGVufDB8fDB8fHww')",
       },
     },
   },
   plugins: [],
 };
 
-//https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.discover-the-world.com%2Fnorthern-lights%2F&psig=AOvVaw1scwHBfoQmgPPIPsIkmep2&ust=1700482205629000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKC9nICE0IIDFQAAAAAdAAAAABAE
+// https://images.pexels.com/photos/5341778/pexels-photo-5341778.jpeg?cs=srgb&dl=pexels-saul-graydon-5341778.jpg&fm=jpg
 
-//https://images.pexels.com/photos/3617500/pexels-photo-3617500.jpeg?cs=srgb&dl=pexels-benjamin-suter-3617500.jpg&fm=jpg
+//https://eartheclipse.com/wp-content/uploads/2022/02/white-clouds-blue-sky.jpg
+
+//https://wallpapercave.com/wp/wp9975609.jpg
+
+//https://vastphotos.com/files/uploads/photos/10994/peaceful-nature-photo-l.jpg?v=20220712073521
